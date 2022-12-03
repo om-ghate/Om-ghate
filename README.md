@@ -7,7 +7,7 @@
 
 - 🌱 I’m looking for help in **Building Projects**
 
-- 👯 I’m looking Learning **Machine Learning and Data Science**
+- 👯 I’m Learning **Machine Learning and Data Science**
 
 - 🤝 I’m looking to collaborate/learn more on **AI and ML**
 
