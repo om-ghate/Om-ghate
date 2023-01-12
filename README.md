@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate/learn more on **AI and ML**
 
-- 📝 Book i like Atomic Habits by James Clear
+- 📝 Book i like Percy Jackson Series
 
 - 💬 Ask me about **Math and Time Management**
 
