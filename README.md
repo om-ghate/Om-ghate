@@ -35,42 +35,56 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
 </p>
 
 #### 📊 Data Analytics & Business Intelligence
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" />
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="45" width="45" alt="Microsoft Excel" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="45" width="45" alt="Power BI" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" width="45" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" width="45" alt="NumPy" title="Numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" width="45" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="45" width="45" alt="Microsoft Excel" title="Excel" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="45" width="45" alt="Power BI" title="Power BI" />
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" alt="MongoDB" />
 </p>
 
 #### 🤖 Machine Learning & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow"/>
 </p>
 
 #### ⚙️ Development & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,anaconda" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" title="Postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="45" title="Anaconda" alt="Anaconda" />
 </p>
 
 #### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" title="CSS" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" title="Tailwind CSS" alt="Tailwind CSS" />
 </p>
 
 #### 🎨 Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
 </p>
 ---
 
